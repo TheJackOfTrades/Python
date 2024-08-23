@@ -4,7 +4,7 @@ This GitHub repository stores practice programs found on the [Geeks For Geeks](h
 
 *Note: Not all of the projects found on the Geeks for Geeks website will be created, all of the programs (along with their task description) are listed below*
 
-## Projects
+## Project List
 
 ### Beginner Level
 
