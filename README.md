@@ -9,6 +9,6 @@ This GitHub repository stores practice programs found on the [Geeks For Geeks](h
 ### Beginner Level
 
 1. Number guessing game
-    - Develop a number guessing game where the user selects a range of integers (A to B). The system will randomly select an integer within this range, and the user must guess the number in the least amount of attempts.
+    - Develop a number guessing game where the user selects a range of integers between which the system will randomly select an integer. The system will then calculate the maximum amount of guesses required to guarantee a correct answer and then the user must guess the number in the least amount of attempts.
 2. Word guessing game
-    - Develop a word guessing game where the user tries to guess a randomly chosen word by suggesting letters within a limited number of attempts.
+    - Develop a word guessing game where the user must guess a randomly chosen word from a pre-determined list by suggesting letters. The user will have a limited number of attempts to correctly guess the word.
